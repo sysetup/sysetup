@@ -10,5 +10,3 @@
 ----
 
 > Creation and optimization systems.
-
-**Contact:** [carlos@sysetup.com](mailto:carlos@sysetup.com)
